@@ -60,17 +60,17 @@ Open DevTools (F12 → Console tab) and run the following commands. Write your a
 ```js
 document.querySelectorAll('.card').length
 ```
-**Your answer:** _______
+**Your answer:** _____6__
 
 ```js
 document.querySelectorAll('#col-todo .card').length
 ```
-**Your answer:** _______
+**Your answer:** ____3___
 
 ```js
 document.querySelector('[data-column="done"]').id
 ```
-**Your answer:** _______
+**Your answer:** ___' '____
 
 ---
 
